@@ -1,4 +1,6 @@
 import React from "react";
+//---------------------------------------------------------------
+//i mport the dark mode hook into the `NavBar` component 
 import { useDarkMode } from '../hooks/useDarkMode';
 
 const Navbar = () => {
